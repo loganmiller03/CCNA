@@ -7,3 +7,5 @@
   * a client is a device that access a service made available by a server
 * What is a server?
   * a server is a device that provides functions or services for clients
+* Here is a simple network with a server and client
+  * ![simplenetwork](Images/simplenetwork.png)
