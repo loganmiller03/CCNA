@@ -1,2 +1,2 @@
 # CCNA
-Studying for CCNA
+Studying for the CCNA
