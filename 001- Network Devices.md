@@ -75,5 +75,5 @@
 
 
 
-# Answer: 
+### Answer: 
 * c) next gen firewall: this is a firewall that has both classic firewall features and advanced filtering functionalities.
