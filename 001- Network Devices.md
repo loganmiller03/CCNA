@@ -27,50 +27,53 @@
 
 ## Quiz
 ### 1) Your company wants to purchase some network hardware to whih they can plug the 30 PCs in your department. Which type of network device is appropriate?
- a) router
- b) firewall
- c) switch
- d) server
+ * a) router
+ * b) firewall
+ * c) switch
+ * d) server
 
 
 
 ### Answer: 
- b) switch: a switch is designed to connect many end hosts in the same LAN together
+ * b) switch: a switch is designed to connect many end hosts in the same LAN together
 
 ### 2) You received a video file from your friend’s Apple iPhone using AirDrop. What was his iPhone functioning as in that transaction?
- a) a server
- B) a client
- c) a local area network
+ * a) a server
+ * b) a client
+ * c) a local area network
 
 
 
 ### Answer: 
- a) server: his phone is providing the service for the the clients request
+ * a) server: his phone is providing the service for the the clients request
 
 ### 3) What is your computer or smartphone functioning as while you watch this video?
- a) server
- b) an end host
- c) client
+ * a) server
+ * b) an end host
+ * c) client
 
 
 
-### Answer: c) client: you are receiving the video service from a server
+### Answer: 
+ * c) client: you are receiving the video service from a server
 
 ### 4) Your company wants to purchase some network hardware to connect its separate networks together. What kind of network device is appropriate?
- a) a firewall
- b) a host
- c) a LAN
- d) a router
+ * a) a firewall
+ * b) a host
+ * c) a LAN
+ * d) a router
 
-### Answer: d) a router: a router forwards devices across the internet, connecting LANs/networks
+### Answer: 
+ * d) a router: a router forwards devices across the internet, connecting LANs/networks
 
 
 ### 5) Your company wants to upgrade its old network firewall that has been in use for several years to one that provides more advanced functions. What kind of firewall should they purchase?
- a) a host based firewall
- b) a next level firewall
- c) a next generation firewall
- d) a top layer firewall
+ * a) a host based firewall
+ * b) a next level firewall
+ * c) a next generation firewall
+ * d) a top layer firewall
 
 
 
-# Answer: c) next gen firewall: this is a firewall that has both classic firewall features and advanced filtering functionalities.
+# Answer: 
+* c) next gen firewall: this is a firewall that has both classic firewall features and advanced filtering functionalities.
