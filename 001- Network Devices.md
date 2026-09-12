@@ -1,4 +1,4 @@
-# Day One
+# [Day One - Network Devices](https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ)
 * What is a network?
   * A computer network is a digital telecommunications network which allows nodes to share resources
 * What is a node?
