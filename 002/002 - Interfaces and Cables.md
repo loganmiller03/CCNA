@@ -21,6 +21,7 @@
   * Unshielded Twisted Pair
   * no metallic shield making them vulnerable to interference
   * twisted pair protects against EMI(Electromagnetic Interference)
+  * [utp cables](002/UTPcablesdiagram.png)
  
 * Auto MDI-X eliminates the issue of straight through vs crossover cables as it can detect which pins a device trasmits and receives data on
 
