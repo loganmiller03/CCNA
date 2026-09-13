@@ -17,16 +17,19 @@
   * petabytes, exabits, zettabits, yottabits...
 * Ethernet standards
   * IEEE 802.3 standard
+  * ![utp cables](002/copperethstandards.png)
 * UTP Cables
   * Unshielded Twisted Pair
   * no metallic shield making them vulnerable to interference
   * twisted pair protects against EMI(Electromagnetic Interference)
-  * [utp cables](002/UTPcablesdiagram.png)
+  * ![utp cables](002/UTPcablesdiagram.png)
  
 * Auto MDI-X eliminates the issue of straight through vs crossover cables as it can detect which pins a device trasmits and receives data on
 
 * Fiber optics
   * SFP Transceiver (Small Form Factor Pluggable) connects to fiber optic cables
+  * ![utp cables](002/fiberoptics.png)
+  * ![utp cables](002/fiberopticstandards.png)
   * multimode fiber
     * core diameter is wider than single mode fiber
     * allows multiple angles(modes) of light waves to enter the fiberglass core
@@ -38,4 +41,4 @@
     * longer cables than UTP and multimode fiber
     * more expensive than multimode fiber
   * UTP vs fiber optic cables
-    * 
+    * ![utp cables](002/utpvsfiber.png)
